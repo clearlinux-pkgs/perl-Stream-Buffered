@@ -4,7 +4,7 @@
 #
 Name     : perl-Stream-Buffered
 Version  : 0.03
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/D/DO/DOY/Stream-Buffered-0.03.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DO/DOY/Stream-Buffered-0.03.tar.gz
 Summary  : 'temporary buffer to save bytes'
@@ -99,7 +99,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/Stream/Buffered.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Stream/Buffered/Auto.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Stream/Buffered/File.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Stream/Buffered/PerlIO.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Stream/Buffered.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Stream/Buffered/Auto.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Stream/Buffered/File.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Stream/Buffered/PerlIO.pm
