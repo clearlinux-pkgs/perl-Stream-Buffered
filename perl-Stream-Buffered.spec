@@ -99,7 +99,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/Stream/Buffered.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Stream/Buffered/Auto.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Stream/Buffered/File.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Stream/Buffered/PerlIO.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Stream/Buffered.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Stream/Buffered/Auto.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Stream/Buffered/File.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Stream/Buffered/PerlIO.pm
