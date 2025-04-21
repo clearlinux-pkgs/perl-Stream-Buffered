@@ -7,7 +7,7 @@
 #
 Name     : perl-Stream-Buffered
 Version  : 0.03
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/D/DO/DOY/Stream-Buffered-0.03.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DO/DOY/Stream-Buffered-0.03.tar.gz
 Summary  : 'temporary buffer to save bytes'
